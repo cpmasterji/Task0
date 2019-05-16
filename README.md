@@ -22,6 +22,6 @@ The basic idea of this task is to understand how collaborated projects work on g
 - Merge sort
 - Print fibonacci series - Anushri
 - Finding if a given number is prime
-- Finding the max element in an array
+- Finding the max element in an array ----- Balaji Jayashrri
 - Finding the min element in an array
 - Multiplication of matrices - Shyam
